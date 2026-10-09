@@ -1,9 +1,9 @@
 {
-    "version": "6.43.B10",
-    "notes": "✓Update Aplikasi IDM 6.43 Build 10\n✓ Aktivasi IDM Diperbarui",
+    "version": "6.43.B15",
+    "notes": "✓Update Aplikasi IDM 6.43 Build 15\n✓ Aktivasi IDM Diperbarui",
     "download_url": "https://github.com/debotzzz/IDM_Activator/releases/latest/download/IDM_Activator_Debotz.exe",
     "min_version": "2.37",
-    "release_date": "2026-08-24",
+    "release_date": "2026-10-09",
     "requirements": {
         "os": "Windows 7/8/10/11",
         "admin": true
