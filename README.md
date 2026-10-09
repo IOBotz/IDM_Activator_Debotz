@@ -1,5 +1,5 @@
 ### 🚀 IDM Activator Debotz
-## 🚀 NEW Update IDM 6.42. Build 63 [Realease](https://github.com/debotzzz/IDM_Activator/releases/tag/latest)
+## 🚀 NEW Update IDM 6.43 Build 15 [Realease](https://github.com/debotzzz/IDM_Activator/releases/tag/latest)
 
 **IDM Activator Debotz** adalah aplikasi berbasis Python dengan antarmuka
 GUI modern yang membantu proses aktivasi Internet Download Manager
